@@ -3,10 +3,10 @@
 #include <PubSubClient.h>
 
 // Update these with values suitable for your network
-const char* ssid = "twinternship";
-const char* password = "yolked-smelt-outbreak-pothole";
+const char* ssid = "CVR_HOME";
+const char* password = "kalilinux";
 
-const char* mqtt_server = "broker.mqtt-dashboard.com";
+const char* mqtt_server = "broker.hivemq.com";
 const char* topicPub = "shiva";
 const char* topicSub = "shakthi";
 
